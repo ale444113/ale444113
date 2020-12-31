@@ -5,7 +5,7 @@
 </p>
 
 ## About Me 📝
-Hello, I'm a  14 year old programmer from Spain that enjoys making software.
+Hello, I'm a programmer from Spain that enjoys making software.
 
 ## Projects 🖥️ </>
 
