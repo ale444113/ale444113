@@ -20,7 +20,7 @@ Hello, I'm a programmer from Spain that enjoys making software.
 **3.Learning arduino**<br>
 
 ## Contact Me 📱
-**Discord - ale444113#6621**<br>
+**Discord - alenumeros#6621**<br>
 
 <!--
 **ale444113/ale444113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
