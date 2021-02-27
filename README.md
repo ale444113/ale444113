@@ -3,7 +3,7 @@
   <img src='https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png' width="125" height="125">
   <img src='https://www.flaticon.com/svg/static/icons/svg/226/226777.svg' width='125' height='125'>
   <br>
-  <img src='https://miro.medium.com/max/1200/0*sDWRBb3SeZ9h6cSz.png' width='140' height='125'>
+  <img src='https://miro.medium.com/max/1200/0*sDWRBb3SeZ9h6cSz.png' width='160' height='125'>
 </p>
 
 ## About Me 📝
