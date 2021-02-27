@@ -2,6 +2,8 @@
 <p align='center'>
   <img src='https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png' width="125" height="125">
   <img src='https://www.flaticon.com/svg/static/icons/svg/226/226777.svg' width='125' height='125'>
+  <br>
+  <img src='https://miro.medium.com/max/1200/0*sDWRBb3SeZ9h6cSz.png' width='125' height='125'>
 </p>
 
 ## About Me 📝
@@ -16,9 +18,9 @@ Hello, I'm a programmer from Spain that enjoys making software.
 **Some other projects that aren't here 😮** <br>
 
 ## I’m currently working on / learning 🔭
-**Discord bots** <br>
-**Minecraft AntiCheat (https://github.com/ale444113/MinecraftAntiCheat)** <br>
-**Learning arduino and rust**<br>
+* **Discord bots** <br>
+* **Minecraft AntiCheat (https://github.com/ale444113/MinecraftAntiCheat)** <br>
+* **Learning arduino and rust**<br>
 
 ## Contact Me 📱
 **Discord - alenumeros#6621**<br>
