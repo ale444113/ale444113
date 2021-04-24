@@ -19,8 +19,8 @@ Hello, I'm a programmer from Spain that enjoys making software.
 
 ## I’m currently working on / learning 🔭
 * **Discord bots** <br>
-* **Minecraft AntiCheat (https://github.com/ale444113/MinecraftAntiCheat)** <br>
-* **Learning arduino and rust**<br>
+* **Minecraft TNT-Tag (https://github.com/ale444113/TNTTag)** <br>
+* **Learning Golang and rust**<br>
 
 ## Contact Me 📱
 **Discord - alenumeros#6621**<br>
