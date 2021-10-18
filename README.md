@@ -11,16 +11,15 @@ Hello, I'm a programmer from Spain that enjoys making software.
 
 ## Projects 🖥️ </>
 
+**[TNTTag](https://github.com/ale444113/TNTTag/tree/main) - |Minecraft plugin| A simple TNT Tag minigame, made using spigot.** <br>
+**[ThisIsNotABackdoor](https://github.com/ale444113/ThisIsNotABackdoor) - Just a backdoor...** <br>
 **[SS tool](https://github.com/ale444113/MinecraftSSToolByNumbers) - It is a screen share tool, it was made for catching cheaters in the ss.**<br>
 **[Virus with python](https://github.com/ale444113/viruswithpython) - It is a self-replicated virus with copy it self into other .py near but without changing their original code** <br>
-**[Hangman](https://github.com/ale444113/hangman-ahorcado) - This is a hangman game with UI, it was made for a challengue in only 2h** <br>
-**[TicTacToe](https://github.com/ale444113/TicTacToe) - It is just a tic tac toe...** <br>
 **Some other projects that aren't here 😮** <br>
 
 ## I’m currently working on / learning 🔭
 * **Discord bots** <br>
-* **Minecraft TNT-Tag (https://github.com/ale444113/TNTTag)** <br>
-* **Learning Golang and rust**<br>
+* **Learning Rust and other stuff**<br>
 
 ## Contact Me 📱
 **Discord - alenumeros#6621**<br>
