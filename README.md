@@ -15,7 +15,6 @@ Nothing to be said tbh
 **[ThisIsNotABackdoor](https://github.com/ale444113/ThisIsNotABackdoor) - Just a backdoor...** <br>
 **[Codewars Bot](https://github.com/ale444113/codewarsBot) - It's a non oficial codewars bot** <br>
 **[SS tool](https://github.com/ale444113/MinecraftSSToolByNumbers) - It is a screen share tool, it was made for catching cheaters in the ss.**<br>
-**[Virus with python](https://github.com/ale444113/viruswithpython) - It is a self-replicated virus with copy it self into other .py near but without changing their original code** <br>
 
 **Some other projects...** <br>
 
