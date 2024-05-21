@@ -1,13 +1,13 @@
 ### Hi there 👋
 <p align='center'>
   <img src='https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png' width="125" height="125">
-  <img src='https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png' width='125' height='125'>
+  <img src='https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png' width='125' height='150'>
   <br>
   <img src='https://miro.medium.com/max/1200/0*sDWRBb3SeZ9h6cSz.png' width='175' height='125'>
 </p>
 
 ## About Me 📝
-Hello, I'm a programmer from Spain that enjoys making software.
+Nothing to be said tbh
 
 ## Projects 🖥️ </>
 
